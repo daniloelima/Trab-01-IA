@@ -1,1 +1,1 @@
-# Trab-01-IA
+# Trabalho 01 - Inteligência Artificial - Machine Learning
