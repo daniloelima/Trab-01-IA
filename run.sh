@@ -6,4 +6,4 @@ program="${src}main"
 
 # Execute Command
 jupyter nbconvert --to python --execute ${program}${nb}
-rm ${program}.py
+rm ${program}.pyK

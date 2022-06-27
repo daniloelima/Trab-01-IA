@@ -5,36 +5,36 @@ Num of folds:  10
 
 Num of repetitions:  3 
 
-Test run on:  2022-06-24 12:41:15
+Test run on:  2022-06-26 17:21:14
 ## Zero R
 
-Mean Value:  0.3218954248366013 
+Mean Value:  0.3993464052287583 
 
-Standart Variation:  0.12526688441318043 
+Standart Variation:  0.024707265583576204 
 
-Lower limit:  0.27707006963784997 
+Lower limit:  0.3905051862508785 
 
-Upper limit:  0.3667207800353526 
+Upper limit:  0.4081876242066381 
 
 ## K NEAREST NEIGHBORS
 
-Mean Value:  0.6956427015250546 
+Mean Value:  0.9604575163398692 
 
-Standart Variation:  0.12091424757836543 
+Standart Variation:  0.05318771771984477 
 
-Lower limit:  0.652374888793219 
+Lower limit:  0.9414248857274637 
 
-Upper limit:  0.7389105142568901 
+Upper limit:  0.9794901469522747 
 
 ## DECISION TREE
 
-Mean Value:  0.9065359477124182 
+Mean Value:  0.8896514161220043 
 
-Standart Variation:  0.06336611700427768 
+Standart Variation:  0.07209164811607015 
 
-Lower limit:  0.8838610906215882 
+Lower limit:  0.8638542251979662 
 
-Upper limit:  0.9292108048032481 
+Upper limit:  0.9154486070460424 
 
 ## NBG
 
@@ -45,4 +45,14 @@ Standart Variation:  0.0482047991331875
 Lower limit:  0.9561709304412 
 
 Upper limit:  0.9906700281644645 
+
+## KMC
+
+Mean Value:  0.9660130718954247 
+
+Standart Variation:  0.04807810439634769 
+
+Lower limit:  0.9488088593300312 
+
+Upper limit:  0.9832172844608182 
 
